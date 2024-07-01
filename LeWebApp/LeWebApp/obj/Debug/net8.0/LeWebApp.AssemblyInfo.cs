@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9f81ffb0-8bd4-4d39-b2b1-2bb6ada18525")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1bb83a1b049940be80d5cb52db151e7f220eef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da7c6e5b5a3f3ba43dab69f19e7e7c15bb631d1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
